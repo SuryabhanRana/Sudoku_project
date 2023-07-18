@@ -4,7 +4,7 @@ This project is a Sudoku solver implemented in Java using the NetBeans IDE.
 
 
 ## Description
-The Sudoku Solver is designed to solve Sudoku puzzles of various difficulty levels. It utilizes a backtracking algorithm to find the solution for the given puzzle.
+The Sudoku Solver is designed to solve Sudoku puzzles of various difficulty levels. It utilizes a simple algorithm to find the solution for the given puzzle.
 
 ## Features
 Solves Sudoku puzzles of varying difficulty levels.
